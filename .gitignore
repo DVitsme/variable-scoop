@@ -1,0 +1,154 @@
+# Client Side Ignore
+
+# dependencies
+/client/node_modules
+/client/.pnp
+/client/.pnp.js
+
+# testing
+/client/coverage
+
+# next.js
+/client/.next/
+/client/out/
+
+# production
+/client/build
+
+# misc
+/client/.DS_Store
+/client/*.pem
+
+# debug
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+
+# local env files
+/client/.env.local
+/client/.env.development.local
+/client/.env.test.local
+/client/.env.production.local
+
+# vercel
+/client/.vercel
+
+
+
+
+### Server
+
+############################
+# OS X
+############################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+._*
+
+
+############################
+# Linux
+############################
+
+*~
+
+
+############################
+# Windows
+############################
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+############################
+# Packages
+############################
+
+*.7z
+*.csv
+*.dat
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.seed
+*.so
+*.swo
+*.swp
+*.swn
+*.swm
+*.out
+*.pid
+
+
+############################
+# Logs and databases
+############################
+
+server2/.tmp
+server2/*.log
+server2/*.sql
+server2/*.sqlite
+server2/*.sqlite3
+
+
+############################
+# Misc.
+############################
+
+server2/*#
+server2/ssl
+server2/.idea
+server2/nbproject
+server2/public/uploads/*
+server2/!public/uploads/.gitkeep
+
+############################
+# Node.js
+############################
+
+server2/lib-cov
+server2/lcov.info
+server2/pids
+server2/logs
+server2/results
+server2/node_modules
+server2/.node_history
+
+
+############################
+# Tests
+############################
+
+server2/testApp
+server2/coverage
+
+############################
+# Strapi
+############################
+
+server2/.env
+server2/license.txt
+server2/exports
+server2/.cache
+server2/build
