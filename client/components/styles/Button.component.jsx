@@ -22,9 +22,11 @@ const StyledButton = styled(Button)`
     font-size: 1.5rem;
   }
   &:hover {
-    background-color: ${(props) =>
-      props.white ? props.theme.orange : props.theme.white};
-    color: ${(props) => (props.white ? props.theme.white : props.theme.orange)};
+    color: ${(props) => props.theme.white};
+    background-color: ${(props) => props.theme.orange};
+    border: ${(props) =>
+      props.white ? "none" : `1px solid ${props.theme.orange}`};
+    text-decoration: none;
     i {
       color: ${(props) =>
         props.white ? props.theme.white : props.theme.orange};

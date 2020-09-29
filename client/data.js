@@ -21,3 +21,9 @@ export const whatSetsUsApart = [
       "We still believe in customer service so we are never too busy to take a call or answer questions. In short we really love what we do and take a lot of pride in delivering work that is both data informed and based on the program's values.",
   },
 ];
+
+export const services = [
+  {
+    title: "Data  Strategy",
+  },
+];

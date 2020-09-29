@@ -6,26 +6,27 @@ import IntroBlog from "../components/intro/introBlog";
 import HeroImage from "../components/Hero/index";
 
 import { fetchAPI } from "../components/utils/api";
+import IntroMetrics from "../components/intro/introMetrics";
 
-export default function Home({ getServices }) {
-  console.log(getServices);
+export default function Home({ getServices, getAbout }) {
   return (
     <div>
       <HeroImage />
       <IntroCTA data={getServices} />
-      <IntroAbout />
+      <IntroAbout data={getAbout} />
+      <IntroMetrics />
       <IntroServices />
       <IntroProjects />
       <IntroBlog />
-      <IntroCTA />
     </div>
   );
 }
 
 export async function getStaticProps(context) {
   const getServices = await fetchAPI("services");
-  console.log(getServices);
+  const getAbout = await fetchAPI("about");
+  // const getAbout = await fetchAPI("about");
   return {
-    props: { getServices },
+    props: { getAbout, getServices },
   };
 }

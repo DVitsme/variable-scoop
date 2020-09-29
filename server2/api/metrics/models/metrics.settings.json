@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "metrics",
+  "info": {
+    "name": "Metrics"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    }
+  }
+}
