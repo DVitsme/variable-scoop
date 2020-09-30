@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import styled from "styled-components";
+import React, { useState } from 'react';
+import styled from 'styled-components';
 import {
   Collapse,
   Navbar as ReactstrapNavbar,
@@ -13,15 +13,14 @@ import {
   DropdownMenu,
   DropdownItem,
   NavbarText,
-} from "reactstrap";
-import { useRouter } from "next/router";
+} from 'reactstrap';
+import { useRouter } from 'next/router';
 
 const Navigation = (props) => {
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
 
   const toggle = () => setIsOpen(!isOpen);
-  console.log(router);
   return (
     <Navbar expand="md">
       <NavbarBrand href="/">reactstrap</NavbarBrand>
@@ -56,8 +55,8 @@ const Navigation = (props) => {
 
 const Navbar = styled(ReactstrapNavbar)`
   position: ${() => {
-    if (useRouter().pathname === "/") return "absolute";
-    return "relative";
+    if (useRouter().pathname === '/') return 'absolute';
+    return 'relative';
   }};
   /* position: absolute; */
   /* router.pathname === "/" ? absolute : relative */
@@ -65,8 +64,8 @@ const Navbar = styled(ReactstrapNavbar)`
   width: 100%;
   z-index: 100;
   background-color: ${() => {
-    if (useRouter().pathname === "/") return "transparent";
-    return "rgba(49,53,55,1)";
+    if (useRouter().pathname === '/') return 'transparent';
+    return 'rgba(49,53,55,1)';
   }};
   border: 0;
   -webkit-box-shadow: none;

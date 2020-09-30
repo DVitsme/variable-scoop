@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "metrics",
   "info": {
-    "name": "Metrics"
+    "name": "Difference"
   },
   "options": {
     "increments": true,
@@ -13,7 +13,7 @@
       "type": "string"
     },
     "body": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
