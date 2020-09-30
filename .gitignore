@@ -121,7 +121,6 @@ server2/*#
 server2/ssl
 server2/.idea
 server2/nbproject
-server2/public/uploads/*
 server2/!public/uploads/.gitkeep
 
 ############################
