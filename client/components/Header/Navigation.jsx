@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import styled from 'styled-components';
+import React, { useState } from "react";
+import styled from "styled-components";
 import {
   Collapse,
   Navbar as ReactstrapNavbar,
@@ -13,8 +13,9 @@ import {
   DropdownMenu,
   DropdownItem,
   NavbarText,
-} from 'reactstrap';
-import { useRouter } from 'next/router';
+} from "reactstrap";
+import { useRouter } from "next/router";
+import Link from "next/link";
 
 const Navigation = (props) => {
   const router = useRouter();
@@ -23,31 +24,38 @@ const Navigation = (props) => {
   const toggle = () => setIsOpen(!isOpen);
   return (
     <Navbar expand="md">
-      <NavbarBrand href="/">reactstrap</NavbarBrand>
+      <NavbarBrand href="/">Variable Scoop</NavbarBrand>
       <NavbarToggler onClick={toggle} />
       <Collapse isOpen={isOpen} navbar>
-        <Nav className="mr-auto" navbar>
+        <Nav className="ml-auto" navbar>
           <NavItem>
-            <NavLink href="/components/">Components</NavLink>
+            <Link href="/about">
+              <NavLink>About</NavLink>
+            </Link>
           </NavItem>
           <NavItem>
-            <NavLink href="https://github.com/reactstrap/reactstrap">
-              GitHub
-            </NavLink>
+            <Link href="/">
+              <NavLink>GitHub</NavLink>
+            </Link>
           </NavItem>
           <UncontrolledDropdown nav inNavbar>
             <DropdownToggle nav caret>
-              Options
+              Services
             </DropdownToggle>
             <DropdownMenu right>
-              <DropdownItem>Option 1</DropdownItem>
-              <DropdownItem>Option 2</DropdownItem>
+              <DropdownItem>Strategic Planning</DropdownItem>
               <DropdownItem divider />
-              <DropdownItem>Reset</DropdownItem>
+              <DropdownItem>Evaluation</DropdownItem>
+              <DropdownItem divider />
+              <DropdownItem>Data Strategy</DropdownItem>
             </DropdownMenu>
           </UncontrolledDropdown>
+          <NavItem>
+            <Link href="/contact">
+              <NavLink>Contact</NavLink>
+            </Link>
+          </NavItem>
         </Nav>
-        <NavbarText>Simple Text</NavbarText>
       </Collapse>
     </Navbar>
   );
@@ -55,17 +63,16 @@ const Navigation = (props) => {
 
 const Navbar = styled(ReactstrapNavbar)`
   position: ${() => {
-    if (useRouter().pathname === '/') return 'absolute';
-    return 'relative';
+    if (useRouter().pathname === "/") return "absolute";
+    return "relative";
   }};
-  /* position: absolute; */
-  /* router.pathname === "/" ? absolute : relative */
+
   top: 0;
   width: 100%;
   z-index: 100;
   background-color: ${() => {
-    if (useRouter().pathname === '/') return 'transparent';
-    return 'rgba(49,53,55,1)';
+    if (useRouter().pathname === "/") return "transparent";
+    return "rgba(49,53,55,1)";
   }};
   border: 0;
   -webkit-box-shadow: none;

@@ -51,11 +51,13 @@ const IntroAbout = ({
         <Row>
           <Col md={6}>
             <ReactMarkdown source={excerptBody} />
-            <OrangeButton>
-              <Link href="/about">
-                <a> Read About Us </a>
-              </Link>
-            </OrangeButton>
+            <div className="my-5">
+              <OrangeButton>
+                <Link href="/about">
+                  <a> Read About Us </a>
+                </Link>
+              </OrangeButton>
+            </div>
           </Col>
           <Col md={6}>
             <img
