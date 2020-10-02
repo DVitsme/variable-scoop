@@ -1,32 +1,51 @@
-import React from "react";
-import Link from "next/link";
-import { Container as ReactstrapContainer, Row, Col } from "reactstrap";
-import { fetchAPI } from "../components/utils/api";
+import React from 'react';
+import Link from 'next/link';
+import ReactMarkdown from 'react-markdown';
 
-import styled from "styled-components";
+import { Container as ReactstrapContainer, Row, Col } from 'reactstrap';
+import { fetchAPI } from '../components/utils/api';
+
+import styled from 'styled-components';
+import { BoldFirstWord } from '../components/styles/BoldWord.component';
 
 const Container = styled(ReactstrapContainer)`
-  width: 100%;
+  width: 100% !important;
 `;
 
 const ImageLeft = styled(Col)`
-  background-image: url("/images/hero/hero_02.jpg");
+  background-image: ${(props) =>
+    `url(${process.env.NEXT_PUBLIC_STRAPI_URL + props.image.url})`};
   background-position: center center;
   background-size: cover;
   padding: 8% 8% 8% 8%;
 `;
+const ContentRight = styled(Col)`
+  padding: 0 5%;
+  h3 {
+    text-transform: uppercase;
+    margin-top: 40px;
+  }
+`;
 const About = ({ getAbout }) => {
+  const {
+    title,
+    bodySubHeaderOne,
+    bodyContentOne,
+    bodySubheaderTwo,
+    bodyContentTwo,
+    bodyImage,
+  } = getAbout;
   return (
     <Container fluid>
       <Row>
-        <ImageLeft md={6}></ImageLeft>
-        <Col md={6}>
-          {" "}
-          <h1>Im the About Page</h1>
-          <Link href="/">
-            <a>Go Home</a>
-          </Link>
-        </Col>
+        <ImageLeft md={6} image={bodyImage}></ImageLeft>
+        <ContentRight md={6}>
+          <BoldFirstWord content={bodySubHeaderOne} />
+          <ReactMarkdown source={bodyContentOne} />
+          <hr />
+          <BoldFirstWord content={bodySubheaderTwo} />
+          <ReactMarkdown source={bodyContentTwo} />
+        </ContentRight>
       </Row>
     </Container>
   );
@@ -35,7 +54,7 @@ const About = ({ getAbout }) => {
 export default About;
 
 export async function getStaticProps(context) {
-  const getAbout = await fetchAPI("about");
+  const getAbout = await fetchAPI('about');
   return {
     props: { getAbout },
   };

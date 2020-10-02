@@ -1,22 +1,31 @@
-import React, { useState } from "react";
-import styled from "styled-components";
+import React, { useState } from 'react';
+import styled from 'styled-components';
 import {
   Collapse,
   Navbar as ReactstrapNavbar,
   NavbarToggler,
-  NavbarBrand,
+  NavbarBrand as ReactstrapNavbarBrand,
   Nav,
   NavItem,
-  NavLink,
+  NavLink as ReactstrapNavLink,
   UncontrolledDropdown,
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
   NavbarText,
-} from "reactstrap";
-import { useRouter } from "next/router";
-import Link from "next/link";
+} from 'reactstrap';
+import { useRouter } from 'next/router';
+import Link from 'next/link';
 
+const NavLink = styled(ReactstrapNavLink)`
+  margin: 0 7px;
+  cursor: pointer;
+`;
+
+const NavbarBrand = styled(ReactstrapNavbarBrand)`
+  font-size: 2rem;
+  font-weight: 500;
+`;
 const Navigation = (props) => {
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
@@ -43,11 +52,17 @@ const Navigation = (props) => {
               Services
             </DropdownToggle>
             <DropdownMenu right>
-              <DropdownItem>Strategic Planning</DropdownItem>
+              <Link href="/services/[:id]" as="/services/stategic-planning">
+                <DropdownItem>Strategic Planning</DropdownItem>
+              </Link>
               <DropdownItem divider />
-              <DropdownItem>Evaluation</DropdownItem>
+              <Link href="/services/[:id]" as="/services/evaluation">
+                <DropdownItem>Evaluation</DropdownItem>
+              </Link>
               <DropdownItem divider />
-              <DropdownItem>Data Strategy</DropdownItem>
+              <Link href="/services/[:id]" as="/services/data-stategy">
+                <DropdownItem>Data Strategy</DropdownItem>
+              </Link>
             </DropdownMenu>
           </UncontrolledDropdown>
           <NavItem>
@@ -63,16 +78,16 @@ const Navigation = (props) => {
 
 const Navbar = styled(ReactstrapNavbar)`
   position: ${() => {
-    if (useRouter().pathname === "/") return "absolute";
-    return "relative";
+    if (useRouter().pathname === '/') return 'absolute';
+    return 'relative';
   }};
 
   top: 0;
   width: 100%;
   z-index: 100;
   background-color: ${() => {
-    if (useRouter().pathname === "/") return "transparent";
-    return "rgba(49,53,55,1)";
+    if (useRouter().pathname === '/') return 'transparent';
+    return 'rgba(49,53,55,1)';
   }};
   border: 0;
   -webkit-box-shadow: none;
