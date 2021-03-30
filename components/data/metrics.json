@@ -1,0 +1,89 @@
+[
+  {
+    "_id": "5f740fb4a262d110fb825153",
+    "title": "Evidence Based",
+    "body": "Regardless of what work we do, we will explain how we arrived at the conclusions, what it means, and provide the evidence we used to justify our decision.",
+    "createdAt": "2020-09-30T04:55:16.527Z",
+    "updatedAt": "2020-09-30T04:55:16.954Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "id": "5f740fb4a262d110fb825153"
+  },
+  {
+    "_id": "5f740fd4a262d110fb825154",
+    "title": "Creative Approach",
+    "body": "We use a blend of traditional research frameworks to meet the needs of the community or the program. Check out our toolbox for a few of our favorite frameworks.",
+    "createdAt": "2020-09-30T04:55:48.290Z",
+    "updatedAt": "2020-09-30T04:55:48.345Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "id": "5f740fd4a262d110fb825154"
+  },
+  {
+    "_id": "5f741f32530b38146737f46b",
+    "title": "Reliability",
+    "body": "We take pride in delivering work on time, based on the program's values, culturally relevant, and data-informed.",
+    "createdAt": "2020-09-30T06:01:22.080Z",
+    "updatedAt": "2020-09-30T06:01:22.125Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "id": "5f741f32530b38146737f46b"
+  }
+]

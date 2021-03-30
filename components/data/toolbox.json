@@ -1,0 +1,297 @@
+[
+  {
+    "_id": "5f73e49cfff7a63cc221104c",
+    "description": "How can an organization or a program create a better future? We think it always starts with the people and the stakeholders in an organization. We love a method called Appreciative Inquiry because the underlying assumption of this framework suggests that what we focus on becomes our reality. In organizations and programs, there are multiple realities and values. To shift and transition, the first step is to acknowledge and include all of these different realities and values. We work with our clients and stakeholders to create structured pathways for people to ask questions, talk about their reality and values. Along the way, we start to catalog all the organizational assets, including individual skills and team processes that function well. Then as a team, we come together to create a shared vision. In our experience, employees and stakeholders have more enthusiasm and motivation to change because they become part of the future possibilities and opportunities.",
+    "title": "Appreciative Inquiry",
+    "createdAt": "2020-09-30T01:51:24.659Z",
+    "updatedAt": "2020-10-26T16:17:30.719Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "image": {
+      "_id": "5f6cb9b52553c811fca3174b",
+      "name": "zohar_home4_icon_05.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "zohar_home4_icon_05_ad631951e7",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 6.57,
+      "width": 160,
+      "height": 160,
+      "url": "/uploads/zohar_home4_icon_05_ad631951e7.png",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_zohar_home4_icon_05.png",
+          "hash": "thumbnail_zohar_home4_icon_05_ad631951e7",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 20.44,
+          "path": null,
+          "url": "/uploads/thumbnail_zohar_home4_icon_05_ad631951e7.png"
+        }
+      },
+      "provider": "local",
+      "related": ["5f73e49cfff7a63cc221104c"],
+      "createdAt": "2020-09-24T15:22:29.971Z",
+      "updatedAt": "2020-09-30T01:51:24.706Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9b52553c811fca3174b"
+    },
+    "slug": "focus-groups",
+    "id": "5f73e49cfff7a63cc221104c"
+  },
+  {
+    "_id": "5f73e431af4b23348cc1fdeb",
+    "title": "Focus Groups",
+    "description": "Focus groups are small, facilitated focused discussions specifically designed to uncover insights and guide future action. We use them for two precise reasons: (1) to help our clients understand a problem or situation, and (2) for pilot testing of ideas, materials, policies, services, or products. These tools look deceptively easy when they are, in fact, very complicated. Verifiable results require adequate preparation, planning, and analysis. People in focus groups should never be random; they should always have direct experience and common characteristics. Questions should be well-researched questions and consistent with the overall theme. The discussion flow should be carefully planned to create a non-threatening environment so that participants feel free to talk openly and give honest opinions. The final stage of analysis involves three layers of the discussion: the individual, the group, and the group interaction. Using these steps will provide insightful information, which is often fascinating.",
+    "createdAt": "2020-09-30T01:49:37.578Z",
+    "updatedAt": "2020-10-26T16:17:11.750Z",
+    "__v": 0,
+    "image": {
+      "_id": "5f6cb9b52553c811fca31749",
+      "name": "icon_02.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "icon_02_d072651b3d",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 6.77,
+      "width": 160,
+      "height": 160,
+      "url": "/uploads/icon_02_d072651b3d.png",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_icon_02.png",
+          "hash": "thumbnail_icon_02_d072651b3d",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 21.33,
+          "path": null,
+          "url": "/uploads/thumbnail_icon_02_d072651b3d.png"
+        }
+      },
+      "provider": "local",
+      "related": ["5f73e431af4b23348cc1fdeb"],
+      "createdAt": "2020-09-24T15:22:29.967Z",
+      "updatedAt": "2020-09-30T01:50:58.280Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9b52553c811fca31749"
+    },
+    "slug": "logic-model",
+    "id": "5f73e431af4b23348cc1fdeb"
+  },
+  {
+    "_id": "5f73e68897b8013f350fdbbd",
+    "description": "Evaluation has an opportunity to be transformational. We utilize frameworks rooted in contemporary critical theory. Contemporary critical theory is a social theory-driven approach towards contemplating and critiquing policy alongside history, cultural trends, and popular discourse. The expressions of critical theory for policy evaluation that we use most frequently are critical race theory, the epistemology of intersectionality, truth as power, and the role of lived experience. These theories provide a pathway to analyze society through the lens of power and the social conditions that create inequity. When couples with realist or empowerment evaluation models, we work with stakeholders to dig beneath the surface, uncover the policy's assumptions, and reveal oppressive power dynamics. Utilizing these theories provides a framework for developing deep praxis by encouraging stakeholders to engage in creative reflection and thoughtful action to transform social norms and engage in social change. As part of the evaluation process, we measure how much the stakeholders have been transformed.",
+    "title": "Contemporary Critical theory",
+    "slug": "group-facilitation",
+    "createdAt": "2020-09-30T01:59:36.717Z",
+    "updatedAt": "2020-10-26T16:18:28.389Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "image": {
+      "_id": "5f6cb9b52553c811fca31748",
+      "name": "img_05.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "img_05_7e2303ed51",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.32,
+      "width": 160,
+      "height": 160,
+      "url": "/uploads/img_05_7e2303ed51.png",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_img_05.png",
+          "hash": "thumbnail_img_05_7e2303ed51",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 16.07,
+          "path": null,
+          "url": "/uploads/thumbnail_img_05_7e2303ed51.png"
+        }
+      },
+      "provider": "local",
+      "related": ["5f73e68897b8013f350fdbbd"],
+      "createdAt": "2020-09-24T15:22:29.925Z",
+      "updatedAt": "2020-09-30T01:59:36.757Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9b52553c811fca31748"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "id": "5f73e68897b8013f350fdbbd"
+  },
+  {
+    "_id": "5f73e6a097b8013f350fdbbf",
+    "description": "Participatory photography, or Photovoice, is all about letting people create images that tell their stories.  For many people who live in marginalized or underrepresented communities, visual storytelling removes the need for words. Visual communication can build a bridge between communities and policymakers by using these images to share their community's progress or unmet needs. We use these images to create a shared account of a line of inquiry between stakeholders using the framework from participatory action research. Participatory and action-oriented in the sense that community members conduct data collection and constructive reflection through listening circles or other interviewing techniques. We analyze this data through systematic linkages and collective interpretation.  We empower stakeholders through their collective action of selecting images and stories, exploring themes, understanding the analysis process, and disseminating how, where, and to whom the findings should be shared to impact community transformation and social change.",
+    "title": "Photovoice",
+    "slug": "ethnography",
+    "createdAt": "2020-09-30T02:00:00.324Z",
+    "updatedAt": "2020-10-26T16:19:30.053Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "image": {
+      "_id": "5f6cb9b52553c811fca31747",
+      "name": "img_01.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "img_01_377c8efdd5",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.94,
+      "width": 150,
+      "height": 160,
+      "url": "/uploads/img_01_377c8efdd5.png",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_img_01.png",
+          "hash": "thumbnail_img_01_377c8efdd5",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 146,
+          "height": 156,
+          "size": 17.51,
+          "path": null,
+          "url": "/uploads/thumbnail_img_01_377c8efdd5.png"
+        }
+      }
+    },
+    "id": "5f73e6a097b8013f350fdbbf"
+  },
+  {
+    "_id": "5f73e4bafff7a63cc221104e",
+    "title": "Participatory Monitoring and Evaluation ",
+    "description": "For our coalition and community of practice friends, we offer participatory monitoring and evaluation. This framework is such a tremendously empowering and creative process designed to engage stakeholders and encourage mutual learning. It also fosters trust and engagement as stakeholders make difficult decisions on how to decide what constitutes success, assess progress, and the best way to take action. Participatory monitoring engages the stakeholder in identifying the questions to ask about the project and the best ways to ask them. Stakeholders can also support making sense of the data, determining short-term performance (e.g., outputs and outcomes). Participatory evaluation engages stakeholders initially by naming or framing the problem to be addressed, how to achieve success, and develop a theory or practice. During and concluding the evaluation, stakeholders identify what to celebrate, what to adjust or change, and determine the overall impact.",
+    "createdAt": "2020-09-30T01:51:54.195Z",
+    "updatedAt": "2020-10-26T16:17:56.086Z",
+    "__v": 0,
+    "image": {
+      "_id": "5f6cb9b52553c811fca3174a",
+      "name": "icon_06.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "icon_06_9a1d993126",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 6.57,
+      "width": 160,
+      "height": 160,
+      "url": "/uploads/icon_06_9a1d993126.png",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_icon_06.png",
+          "hash": "thumbnail_icon_06_9a1d993126",
+          "ext": ".png",
+          "mime": "image/png",
+          "width": 156,
+          "height": 156,
+          "size": 20.44,
+          "path": null,
+          "url": "/uploads/thumbnail_icon_06_9a1d993126.png"
+        }
+      }
+    },
+    "slug": "case-study",
+    "id": "5f73e4bafff7a63cc221104e"
+  },
+  {
+    "_id": "5f73e6bf97b8013f350fdbc1",
+    "description": "Storytelling is a powerful tool to describe or make sense of a situation.  Through the art of narration, people can find connections to events or conditions and are likely to retain more information because events are relational and not abstract. We use stories in a variety of ways. We combine storytelling and visualization aids to communicate findings to clients and stakeholders. We also use investigative research methods in the community for key informant interviews instead of a questionnaire or focus group. We find the individual narratives answer our questions and provide insight into barriers or successes that we did not know to ask and place the narrative story in context. Our clients end up with a much broader understanding of actual needs. We also support our clients with collective storytelling to move people to action for social change. In collaborative storytelling, we utilize publicly available data, vivid stories from the community to create a thematic account centered around shared values that people can unite around.",
+    "title": "Storytelling",
+    "slug": "phenomenology",
+    "createdAt": "2020-09-30T02:00:31.181Z",
+    "updatedAt": "2020-10-26T16:18:58.913Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "image": {
+      "_id": "5f6cb9b52553c811fca31745",
+      "name": "icon_04.png",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "icon_04_6be54cfd28",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 3.38,
+      "width": 160,
+      "height": 150,
+      "url": "/uploads/icon_04_6be54cfd28.png",
+      "provider": "local",
+      "related": ["5f73e6bf97b8013f350fdbc1"],
+      "createdAt": "2020-09-24T15:22:29.845Z",
+      "updatedAt": "2020-09-30T02:00:31.235Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9b52553c811fca31745"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "id": "5f73e6bf97b8013f350fdbc1"
+  }
+]

@@ -1,0 +1,821 @@
+{
+  "StrategicPlanning": {
+    "bodyImage": [
+      {
+        "_id": "5f873805f6e8ae51cdfca845",
+        "name": "evulation and interverview.jpeg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "evulation_and_interverview_1994138c77",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 333.5,
+        "width": 4743,
+        "height": 3162,
+        "url": "/images/vectors/check_list.jpeg",
+        "provider": "local",
+        "related": ["5f6cba532553c811fca3174d", "5f6cb9842553c811fca31738"],
+        "createdAt": "2020-10-14T17:40:21.642Z",
+        "updatedAt": "2020-10-14T19:55:57.887Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873805f6e8ae51cdfca845"
+      },
+      {
+        "_id": "5f87b547bbea9a1c11a1aa42",
+        "name": "ballon.jpeg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "ballon_7c1d006266",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 381.13,
+        "width": 3630,
+        "height": 4132,
+        "url": "/uploads/ballon_7c1d006266.jpeg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_ballon.jpeg",
+            "hash": "thumbnail_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 137,
+            "height": 156,
+            "size": 5.12,
+            "path": null,
+            "url": "/uploads/thumbnail_ballon_7c1d006266.jpeg"
+          },
+          "large": {
+            "name": "large_ballon.jpeg",
+            "hash": "large_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 879,
+            "height": 1000,
+            "size": 63.52,
+            "path": null,
+            "url": "/uploads/large_ballon_7c1d006266.jpeg"
+          },
+          "medium": {
+            "name": "medium_ballon.jpeg",
+            "hash": "medium_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 659,
+            "height": 750,
+            "size": 43.87,
+            "path": null,
+            "url": "/uploads/medium_ballon_7c1d006266.jpeg"
+          },
+          "small": {
+            "name": "small_ballon.jpeg",
+            "hash": "small_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 439,
+            "height": 500,
+            "size": 25.69,
+            "path": null,
+            "url": "/uploads/small_ballon_7c1d006266.jpeg"
+          }
+        },
+        "provider": "local",
+        "related": [
+          "5f6cb9842553c811fca31738",
+          "5f6cbaa42553c811fca3174e",
+          "5f6cba532553c811fca3174d"
+        ],
+        "createdAt": "2020-10-15T02:34:47.420Z",
+        "updatedAt": "2020-10-15T02:35:42.456Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87b547bbea9a1c11a1aa42"
+      }
+    ],
+    "additional_services": [
+      {
+        "_id": "5f8757d9451af67f4c3e54b9",
+        "title": "Vision development",
+        "createdAt": "2020-10-14T19:56:09.143Z",
+        "updatedAt": "2020-10-14T19:56:09.190Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f8757d9451af67f4c3e54b9"
+      },
+      {
+        "_id": "5f8757e6451af67f4c3e54bb",
+        "title": "Listening circles",
+        "createdAt": "2020-10-14T19:56:22.411Z",
+        "updatedAt": "2020-10-14T19:56:22.460Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f8757e6451af67f4c3e54bb"
+      },
+      {
+        "_id": "5f8757f1451af67f4c3e54bd",
+        "title": "Theory of change",
+        "createdAt": "2020-10-14T19:56:33.363Z",
+        "updatedAt": "2020-10-14T19:56:33.403Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f8757f1451af67f4c3e54bd"
+      },
+      {
+        "_id": "5f87314bf6e8ae51cdfca838",
+        "title": "Story telling",
+        "createdAt": "2020-10-14T17:11:39.559Z",
+        "updatedAt": "2020-10-14T17:11:39.610Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87314bf6e8ae51cdfca838"
+      }
+    ],
+    "approaches": [
+      {
+        "_id": "5f88feb84f83604417aa1e19",
+        "title": "Appreciative Inquiry (AI)",
+        "body": "Appreciative Inquiry (AI), is an energizing and inclusive framework that fosters creativity through the art of positive inquiry. AI's invigorating process comes alive through conversation, shared values, and collective visioning.\n",
+        "createdAt": "2020-10-16T02:00:24.640Z",
+        "updatedAt": "2020-10-16T02:00:24.705Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88feb84f83604417aa1e19"
+      },
+      {
+        "_id": "5f88fecf4f83604417aa1e1a",
+        "title": "SOAR",
+        "body": "SOAR, is used in place of the traditional SWOT.  The acronym for Strengths (what’s working well): Opportunities (how you can add value to your stakeholders’ needs): Aspirations (your hopes and dreams for your future); Results (what you would like to achieve).",
+        "createdAt": "2020-10-16T02:00:47.165Z",
+        "updatedAt": "2020-10-16T02:00:47.208Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88fecf4f83604417aa1e1a"
+      }
+    ],
+    "_id": "5f6cb9842553c811fca31738",
+    "Title": "Strategic Planning",
+    "slug": "strategic-planning",
+    "excerpt": "Strategic planning is a road map to move you from where you are to where you want to be.",
+    "body": "#### Strategic planning is a road map to move you from where you are to where you want to be. \n\nTo end suffering and invite social change, organizations and social entrepreneurs have to be reflexive and empower the communities you serve. Strategic planning often takes a deficit approach where organizations will typically identify and rank community problems without ever examining existing opportunities within the community. Leaving organizations and communities seeking outside assistance and resources, this effect amplified over time can create inequity. \n\nValentine Consulting uses a dynamic participatory asset-based approach. This approach generates an uplifting discussion and increases the capacity for continuous improvement for the future. We find this process often empowers communities to focus on the human and natural\nresources they already possess, goals are aligned, and strategies benefit the community as a whole. Our selected frameworks offer the opportunity for positive transformation and change\n\n",
+    "createdAt": "2020-09-24T15:21:40.415Z",
+    "updatedAt": "2020-10-27T20:59:18.320Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "excerptImage": {
+      "_id": "5f6cb9a12553c811fca31743",
+      "name": "zohar_04.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "zohar_04_fbf019ec4f",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 22.14,
+      "width": 620,
+      "height": 561,
+      "url": "/images/vectors/people_talking_with_lady_sitting.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_zohar_04.jpg",
+          "hash": "thumbnail_zohar_04_fbf019ec4f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 172,
+          "height": 156,
+          "size": 4.72,
+          "path": null,
+          "url": "/uploads/thumbnail_zohar_04_fbf019ec4f.jpg"
+        },
+        "small": {
+          "name": "small_zohar_04.jpg",
+          "hash": "small_zohar_04_fbf019ec4f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 452,
+          "size": 19.33,
+          "path": null,
+          "url": "/uploads/small_zohar_04_fbf019ec4f.jpg"
+        }
+      },
+      "provider": "local",
+      "related": ["5f6cb9842553c811fca31738"],
+      "createdAt": "2020-09-24T15:22:09.438Z",
+      "updatedAt": "2020-09-24T15:23:02.269Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9a12553c811fca31743"
+    },
+    "title": "Strategic planning",
+    "approach": "#### Evaluation has grown and expanded to multiple approaches. Valentine Consulting uses four approaches: \n1. Appreciative Inquiry (AI), is an energizing and inclusive framework that fosters creativity through the art of positive inquiry. AI's invigorating process comes alive through conversation, shared values, and collective visioning.\n2. SOAR, is used in place of the traditional SWOT.  The acronym for Strengths (what’s working well): Opportunities (how you can add value to your stakeholders’ needs): Aspirations (your hopes and dreams for your future); Results (what you would like to achieve).",
+    "quote": "Greatness is not where we stand but in what direction we are moving ",
+    "quoteAuthor": "Oliver Wendell Holmes",
+    "approachTitle": "#### Our Approach\n\nStrategic Planning has expanded to multiple approaches. Valentine Consulting uses two asset-based systems",
+    "id": "5f6cb9842553c811fca31738"
+  },
+  "Evaluation": {
+    "bodyImage": [
+      {
+        "_id": "5f873805f6e8ae51cdfca845",
+        "name": "evulation and interverview.jpeg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "evulation_and_interverview_1994138c77",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 333.5,
+        "width": 4743,
+        "height": 3162,
+        "url": "/images/vectors/people_sitting_together.jpg",
+        "provider": "local",
+        "related": ["5f6cba532553c811fca3174d", "5f6cb9842553c811fca31738"],
+        "createdAt": "2020-10-14T17:40:21.642Z",
+        "updatedAt": "2020-10-14T19:55:57.887Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873805f6e8ae51cdfca845"
+      },
+      {
+        "_id": "5f87b547bbea9a1c11a1aa42",
+        "name": "ballon.jpeg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "ballon_7c1d006266",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 381.13,
+        "width": 3630,
+        "height": 4132,
+        "url": "/uploads/ballon_7c1d006266.jpeg",
+        "provider": "local",
+        "related": [
+          "5f6cb9842553c811fca31738",
+          "5f6cbaa42553c811fca3174e",
+          "5f6cba532553c811fca3174d"
+        ],
+        "createdAt": "2020-10-15T02:34:47.420Z",
+        "updatedAt": "2020-10-15T02:35:42.456Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87b547bbea9a1c11a1aa42"
+      }
+    ],
+    "additional_services": [
+      {
+        "_id": "5f872576ae4fd70c793607b6",
+        "title": "Photovoice",
+        "createdAt": "2020-10-14T16:21:10.720Z",
+        "updatedAt": "2020-10-14T16:21:10.768Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f872576ae4fd70c793607b6"
+      },
+      {
+        "_id": "5f87313df6e8ae51cdfca836",
+        "title": "Group facilitation",
+        "createdAt": "2020-10-14T17:11:25.726Z",
+        "updatedAt": "2020-10-14T17:11:25.771Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87313df6e8ae51cdfca836"
+      },
+      {
+        "_id": "5f87314bf6e8ae51cdfca838",
+        "title": "Story telling",
+        "createdAt": "2020-10-14T17:11:39.559Z",
+        "updatedAt": "2020-10-14T17:11:39.610Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87314bf6e8ae51cdfca838"
+      },
+      {
+        "_id": "5f873142f6e8ae51cdfca837",
+        "title": "Oral history",
+        "createdAt": "2020-10-14T17:11:30.536Z",
+        "updatedAt": "2020-10-14T17:11:30.588Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873142f6e8ae51cdfca837"
+      },
+      {
+        "_id": "5f873158f6e8ae51cdfca83a",
+        "title": "Focus groups",
+        "createdAt": "2020-10-14T17:11:52.090Z",
+        "updatedAt": "2020-10-14T17:11:52.122Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873158f6e8ae51cdfca83a"
+      },
+      {
+        "_id": "5f87315df6e8ae51cdfca83b",
+        "title": "Listening sessions",
+        "createdAt": "2020-10-14T17:11:57.447Z",
+        "updatedAt": "2020-10-14T17:11:57.500Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87315df6e8ae51cdfca83b"
+      },
+      {
+        "_id": "5f873163f6e8ae51cdfca83c",
+        "title": "Participatory social mapping",
+        "createdAt": "2020-10-14T17:12:03.321Z",
+        "updatedAt": "2020-10-14T17:12:03.360Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873163f6e8ae51cdfca83c"
+      },
+      {
+        "_id": "5f873168f6e8ae51cdfca83d",
+        "title": "Case study ",
+        "createdAt": "2020-10-14T17:12:08.843Z",
+        "updatedAt": "2020-10-14T17:12:08.877Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873168f6e8ae51cdfca83d"
+      },
+      {
+        "_id": "5f87316df6e8ae51cdfca83e",
+        "title": "Ethnography",
+        "createdAt": "2020-10-14T17:12:13.450Z",
+        "updatedAt": "2020-10-14T17:12:13.480Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87316df6e8ae51cdfca83e"
+      },
+      {
+        "_id": "5f873190f6e8ae51cdfca844",
+        "title": "Logic model",
+        "createdAt": "2020-10-14T17:12:48.462Z",
+        "updatedAt": "2020-10-14T17:12:48.503Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873190f6e8ae51cdfca844"
+      },
+      {
+        "_id": "5f873173f6e8ae51cdfca83f",
+        "title": "Phenomenology",
+        "createdAt": "2020-10-14T17:12:19.383Z",
+        "updatedAt": "2020-10-14T17:12:19.422Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873173f6e8ae51cdfca83f"
+      },
+      {
+        "_id": "5f873179f6e8ae51cdfca840",
+        "title": "Content analysis",
+        "createdAt": "2020-10-14T17:12:25.657Z",
+        "updatedAt": "2020-10-14T17:12:25.694Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873179f6e8ae51cdfca840"
+      },
+      {
+        "_id": "5f873181f6e8ae51cdfca841",
+        "title": "Quantitative data analysis",
+        "createdAt": "2020-10-14T17:12:33.886Z",
+        "updatedAt": "2020-10-14T17:12:33.937Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873181f6e8ae51cdfca841"
+      },
+      {
+        "_id": "5f87318bf6e8ae51cdfca843",
+        "title": "Indicator development",
+        "createdAt": "2020-10-14T17:12:43.382Z",
+        "updatedAt": "2020-10-14T17:12:43.418Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87318bf6e8ae51cdfca843"
+      }
+    ],
+    "approaches": [
+      {
+        "_id": "5f88fef24f83604417aa1e1b",
+        "title": "Utilization Focused Evaluation",
+        "body": "Utilization Focused Evaluation is planned and designed with specific goals in mind. This approach is focused on specific users and used for formative, process, summative and impact evaluation.",
+        "createdAt": "2020-10-16T02:01:22.279Z",
+        "updatedAt": "2020-10-16T02:01:22.320Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88fef24f83604417aa1e1b"
+      },
+      {
+        "_id": "5f88ff044f83604417aa1e1c",
+        "title": "Empowerment Evaluation",
+        "body": "Empowerment Evaluation is a stakeholder approach designed to provide groups with the tools and knowledge they need to monitor or evaluate their own performance and accomplish their goals. ",
+        "createdAt": "2020-10-16T02:01:40.160Z",
+        "updatedAt": "2020-10-27T20:57:45.668Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88ff044f83604417aa1e1c"
+      },
+      {
+        "_id": "5f88ff124f83604417aa1e1d",
+        "title": "Developmental Evaluation",
+        "body": "Developmental Evaluation is designed for social innovators as they develop social change initiatives in complex or uncertain environments to drive decision making.",
+        "createdAt": "2020-10-16T02:01:54.909Z",
+        "updatedAt": "2020-10-16T02:01:54.957Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88ff124f83604417aa1e1d"
+      },
+      {
+        "_id": "5f88ff254f83604417aa1e1e",
+        "title": "Participatory Evaluation",
+        "body": "Participatory evaluation engages the stakeholders of a program or policy during the evaluation process. We involve stakeholders to create better understanding of the data, create better recommendations and validate key findings. This is an impact evaluation design approach.",
+        "createdAt": "2020-10-16T02:02:13.255Z",
+        "updatedAt": "2020-10-16T02:02:13.301Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88ff254f83604417aa1e1e"
+      }
+    ],
+    "_id": "5f6cba532553c811fca3174d",
+    "Title": "Evaluation ",
+    "slug": "evaluation",
+    "excerpt": "Evaluation is a process that examines the nature, quality, outcome and impact of program intervention.",
+    "body": "#### Evaluation is a process not an end goal. \nThe process should bring different elements together to support decision makers in making better choices for better outcomes for their program or organization. Too often evaluation recommendations lack utility and are used only to satisfy funding requirements. This approach is both expensive and not helpful, in short a waste of resources.\n\nValentine Consulting believes the evaluation outcome is like feedback backed by unbiased data to ensure the organization or program is on their desired track. Through experience we have pivoted the role of evaluation into a process where our clients are able to build organizational capacity and empower stakeholders. We build capacity by using a developmental process to plan, manage and create supports around the use of evaluation inside of the workflow. We empower stakeholders through self-assessment or team based  assessment; reflective practice; mentoring and training. We only provide consulting to organizations who are committed to ending suffering of a people, culture or this planet, our way of supporting these efforts is to ensure our clients can continue to use these tools after our work is done. The goal is to support transformation for a better world.\n",
+    "createdAt": "2020-09-24T15:25:07.116Z",
+    "updatedAt": "2020-10-26T05:38:12.871Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "excerptImage": {
+      "_id": "5f6cb9a02553c811fca3173a",
+      "name": "vector_03.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "vector_03_a6a791eb3f",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 23.19,
+      "width": 620,
+      "height": 620,
+      "url": "/images/vectors/three_people_talking.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_vector_03.jpg",
+          "hash": "thumbnail_vector_03_a6a791eb3f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 4.44,
+          "path": null,
+          "url": "/uploads/thumbnail_vector_03_a6a791eb3f.jpg"
+        },
+        "small": {
+          "name": "small_vector_03.jpg",
+          "hash": "small_vector_03_a6a791eb3f",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 20.76,
+          "path": null,
+          "url": "/uploads/small_vector_03_a6a791eb3f.jpg"
+        }
+      },
+      "provider": "local",
+      "related": ["5f6cba532553c811fca3174d"],
+      "createdAt": "2020-09-24T15:22:08.558Z",
+      "updatedAt": "2020-09-24T15:26:42.523Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9a02553c811fca3173a"
+    },
+    "title": "Evaluation",
+    "approach": "Evaluation has grown and expanded to multiple approaches. Valentine Consulting uses four approaches: \nUtilization Focused Evaluation** is planned and designed with specific goals in mind. This approach is focused on specific users and used for formative, process, summative and impact evaluation.\nEmpowerment Evaluation** is a stakeholder approach designed to provide groups with the tools and knowledge they need to monitor and evaluate their own performance and accomplish their goals. This approach offers practical problem solving for program improvements and outcomes. The second offers a transformational approach focused on self determination and leading towards impact. These outcomes could include  individual change such as proactive behaviors; organizational change such as effective resource acquisition or increased policy leverage; and community change could be a coalition, or accessible community resources.\nDevelopmental Evaluation** is designed for social innovators as they develop social change initiatives in complex or uncertain environments to drive decision making.\nParticipatory Evaluation** engages the stakeholders of a program or policy during the evaluation process. We involve stakeholders to create better understanding of the data, create better recommendations and validate key findings. This is an impact evaluation design approach.",
+    "quote": "However beautiful the strategy, you should occasionally look at the results.",
+    "quoteAuthor": "Winston Churchill",
+    "approachTitle": "#### Approach:\nEvaluation has grown and expanded to multiple approaches. Valentine Consulting uses four approaches: \n",
+    "id": "5f6cba532553c811fca3174d"
+  },
+  "DataStrategy": {
+    "bodyImage": [
+      {
+        "_id": "5f6cb9a02553c811fca3173e",
+        "name": "vector_05.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "vector_05_292c38ae59",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 103.3,
+        "width": 1900,
+        "height": 1463,
+        "url": "/images/vectors/data_strategy.jpg",
+        "provider": "local",
+        "related": ["5f6cbaa42553c811fca3174e"],
+        "createdAt": "2020-09-24T15:22:08.682Z",
+        "updatedAt": "2020-10-14T20:02:54.311Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f6cb9a02553c811fca3173e"
+      },
+      {
+        "_id": "5f87b547bbea9a1c11a1aa42",
+        "name": "ballon.jpeg",
+        "alternativeText": "",
+        "caption": "",
+        "hash": "ballon_7c1d006266",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 381.13,
+        "width": 3630,
+        "height": 4132,
+        "url": "/uploads/ballon_7c1d006266.jpeg",
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_ballon.jpeg",
+            "hash": "thumbnail_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 137,
+            "height": 156,
+            "size": 5.12,
+            "path": null,
+            "url": "/uploads/thumbnail_ballon_7c1d006266.jpeg"
+          },
+          "large": {
+            "name": "large_ballon.jpeg",
+            "hash": "large_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 879,
+            "height": 1000,
+            "size": 63.52,
+            "path": null,
+            "url": "/uploads/large_ballon_7c1d006266.jpeg"
+          },
+          "medium": {
+            "name": "medium_ballon.jpeg",
+            "hash": "medium_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 659,
+            "height": 750,
+            "size": 43.87,
+            "path": null,
+            "url": "/uploads/medium_ballon_7c1d006266.jpeg"
+          },
+          "small": {
+            "name": "small_ballon.jpeg",
+            "hash": "small_ballon_7c1d006266",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "width": 439,
+            "height": 500,
+            "size": 25.69,
+            "path": null,
+            "url": "/uploads/small_ballon_7c1d006266.jpeg"
+          }
+        },
+        "provider": "local",
+        "related": [
+          "5f6cb9842553c811fca31738",
+          "5f6cbaa42553c811fca3174e",
+          "5f6cba532553c811fca3174d"
+        ],
+        "createdAt": "2020-10-15T02:34:47.420Z",
+        "updatedAt": "2020-10-15T02:35:42.456Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87b547bbea9a1c11a1aa42"
+      }
+    ],
+    "additional_services": [
+      {
+        "_id": "5f87315df6e8ae51cdfca83b",
+        "title": "Listening sessions",
+        "createdAt": "2020-10-14T17:11:57.447Z",
+        "updatedAt": "2020-10-14T17:11:57.500Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87315df6e8ae51cdfca83b"
+      },
+      {
+        "_id": "5f873181f6e8ae51cdfca841",
+        "title": "Quantitative data analysis",
+        "createdAt": "2020-10-14T17:12:33.886Z",
+        "updatedAt": "2020-10-14T17:12:33.937Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873181f6e8ae51cdfca841"
+      },
+      {
+        "_id": "5f87318bf6e8ae51cdfca843",
+        "title": "Indicator development",
+        "createdAt": "2020-10-14T17:12:43.382Z",
+        "updatedAt": "2020-10-14T17:12:43.418Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87318bf6e8ae51cdfca843"
+      },
+      {
+        "_id": "5f873142f6e8ae51cdfca837",
+        "title": "Oral history",
+        "createdAt": "2020-10-14T17:11:30.536Z",
+        "updatedAt": "2020-10-14T17:11:30.588Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f873142f6e8ae51cdfca837"
+      },
+      {
+        "_id": "5f87313df6e8ae51cdfca836",
+        "title": "Group facilitation",
+        "createdAt": "2020-10-14T17:11:25.726Z",
+        "updatedAt": "2020-10-14T17:11:25.771Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f87313df6e8ae51cdfca836"
+      }
+    ],
+    "approaches": [
+      {
+        "_id": "5f88fecf4f83604417aa1e1a",
+        "title": "Journey Mapping",
+        "body": "Journey Mapping is a framework used to facilitate the selection and application of appropriate tools which best describe the client experience through metrics, the results of this process become the data collection tools. This framework has a dual purpose and is also used as part of logic model development and theory of change. ",
+        "createdAt": "2020-10-16T02:00:47.165Z",
+        "updatedAt": "2020-10-16T02:00:47.208Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88fecf4f83604417aa1e1a"
+      },
+      {
+        "_id": "5f88feb84f83604417aa1e19",
+        "title": "Asset Mapping",
+        "body": "Asset Mapping is a systematic tool used to identify existing and potential assets with the organization and between stakeholders to promote co-learning between systems of power and to document the appreciating value of differing levels of expertise.\n",
+        "createdAt": "2020-10-16T02:00:24.640Z",
+        "updatedAt": "2020-10-16T02:00:24.705Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88feb84f83604417aa1e19"
+      },
+      {
+        "_id": "5f88feb84f83604417aa1e19",
+        "title": "Data visualization",
+        "body": "Data visualization, there is a difference between creating a graph and telling a story with data. We work with artist therapists and graphic designers to communicate findings in a manner that is both culturally appropriate and easily digestible for the program or project community and associated stakeholders.\n",
+        "createdAt": "2020-10-16T02:00:24.640Z",
+        "updatedAt": "2020-10-16T02:00:24.705Z",
+        "__v": 0,
+        "created_by": "5f513542fa4334627189053a",
+        "updated_by": "5f513542fa4334627189053a",
+        "id": "5f88feb84f83604417aa1e19"
+      }
+    ],
+    "_id": "5f6cbaa42553c811fca3174e",
+    "Title": "Data  Strategy",
+    "slug": "data-strategy",
+    "excerpt": "A data strategy is a vision for how a company will collect, store, manage, share and use data",
+    "body": "The people and organizations we work with all have a desire to change the world in a specific way, they have admirable missions designed to solve a complex problem.\n Let’s face it, data is everywhere, millions of data points are generated by your organization every minute, most of which goes to waste and the tiny amount that is captured is difficult to navigate.\n Even intentional data collection streams are often stored in a secondary system which goes unchecked until a report is required.\n\n At Variable Scoop, we believe the missing link is an inability to utilize data for  information to make a better decision, to understand a program or project and to communicate the programmatic impact with stakeholders and funders.\n We partner with our clients and their stakeholders to design culturally appropriate data collection tools, develop scalable systems that are tailored to our client's needs and communicate findings through data visualization.\n\n In order to dismantle systems of injustice there is a need to ensure the data collected is accurate, reflect the community who provides the data and communicate the program or projects impact back to the community in a way that makes sense to them.\n In addition, the systems for data collection should be streamlined, to organize and analyze information efficiently.",
+    "createdAt": "2020-09-24T15:26:28.944Z",
+    "updatedAt": "2020-10-16T03:07:58.016Z",
+    "__v": 0,
+    "created_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "excerptImage": {
+      "_id": "5f6cb9a02553c811fca3173c",
+      "name": "vector_02.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "hash": "vector_02_bbcc05a741",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 19.04,
+      "width": 606,
+      "height": 606,
+      "url": "/images/vectors/talking_on_phone.jpg",
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_vector_02.jpg",
+          "hash": "thumbnail_vector_02_bbcc05a741",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 156,
+          "height": 156,
+          "size": 3.93,
+          "path": null,
+          "url": "/uploads/thumbnail_vector_02_bbcc05a741.jpg"
+        },
+        "small": {
+          "name": "small_vector_02.jpg",
+          "hash": "small_vector_02_bbcc05a741",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 500,
+          "size": 17.72,
+          "path": null,
+          "url": "/uploads/small_vector_02_bbcc05a741.jpg"
+        }
+      },
+      "provider": "local",
+      "related": ["5f6cbaa42553c811fca3174e"],
+      "createdAt": "2020-09-24T15:22:08.661Z",
+      "updatedAt": "2020-09-24T15:26:28.983Z",
+      "__v": 0,
+      "created_by": "5f513542fa4334627189053a",
+      "updated_by": "5f513542fa4334627189053a",
+      "id": "5f6cb9a02553c811fca3173c"
+    },
+    "updated_by": {
+      "_id": "5f513542fa4334627189053a",
+      "username": null,
+      "firstname": "The",
+      "lastname": "Admin",
+      "createdAt": "2020-09-03T18:26:10.491Z",
+      "updatedAt": "2020-09-03T18:26:10.533Z",
+      "__v": 0,
+      "id": "5f513542fa4334627189053a"
+    },
+    "title": "Data Strategy",
+    "approach": "#### I need to be written I am the Approach Section\n1.  Here is one thing so you can edit this in the near future. The very near future I mean.\n2. Here is another thing you can use so that you can edit this in the very near future. PS we need to set up something like a macro or something like that in this shit so that we can have lorem ispusm on demand ya know this shit is kind of annyoing af.",
+    "quote": "Data by itself is useless. Data is only useful if you apply it.",
+    "quoteAuthor": "Todd Park",
+    "id": "5f6cbaa42553c811fca3174e"
+  }
+}
