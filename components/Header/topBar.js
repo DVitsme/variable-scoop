@@ -1,6 +1,6 @@
-import React from "react";
-import { Container, Row, Col } from "reactstrap";
-import styled from "styled-components";
+import React from 'react';
+import { Container, Row, Col } from 'reactstrap';
+import styled from 'styled-components';
 
 const TopBar = ({ hide }) => {
   return (
@@ -23,9 +23,6 @@ const TopBar = ({ hide }) => {
           </ContactInfo>
           <SocialMedia lg={6}>
             <IconWrapper>
-              <a href="https://medium.com/@variablescoop" target="_blank">
-                <i className="fa fa-medium" aria-hidden="true" />
-              </a>
               <a
                 href="https://www.linkedin.com/company/variablescoop"
                 target="_blank"
@@ -63,7 +60,7 @@ const TopBarWrapper = styled.section`
   @media only screen and (max-width: 500px) {
     display: none;
   }
-  display: ${(props) => (props.hide ? "none" : "block")};
+  display: ${(props) => (props.hide ? 'none' : 'block')};
   border: 1px solid #f0eff3;
   border-width: 0px 0px 1px 0px;
   color: #696687;

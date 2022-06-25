@@ -1,11 +1,11 @@
-import React from "react";
-import styled from "styled-components";
-import Head from "next/head";
+import React from 'react';
+import styled from 'styled-components';
+import Head from 'next/head';
 
-import { Container, Row, Col } from "reactstrap";
+import { Container, Row, Col, Button } from 'reactstrap';
 
-import Title from "../components/styles/Title";
-import ImageWrapper from "../components/utils/ImageWrapper";
+import Title from '../components/styles/Title';
+import ImageWrapper from '../components/utils/ImageWrapper';
 
 const Contact = () => {
   return (
@@ -33,15 +33,19 @@ const Contact = () => {
           <ImageWrapper imgSrc="/images/vectors/contacts_01.jpg" />
         </Row>
         <Row>
-          <Col md={6}>
+          <Col md={8}>
             <ContactContentWrapper>
               <p className="subTitle">GET IN TOUCH</p>
               <h3 className="title">Contact Us </h3>
               <p className="body">
                 Ready to get started? Have a few questions? Give us a call,
-                Schedule us with an email, or use the calendar on the right to
-                schedule a complimentary consulting call Today!
+                Schedule us with an email, or use the calendar on the below to
+                schedule a complimentary consulting call today!
               </p>
+            </ContactContentWrapper>
+          </Col>
+          <Col md={4}>
+            <ContactContentWrapper>
               <p className="sectionTitle">
                 <span>Phone:</span> <i className="fa fa-phone" />
                 <a href="tel:+88002534236">+1 240 401 8975</a>
@@ -53,61 +57,21 @@ const Contact = () => {
                 <a href="mailto:email@yoursite.com">dawn@variablescoop.com</a>
               </p>
               <p className="sectionTitle">
-                <span>Schedule Directly With My Calendar:</span>
-                <WovenButton />
+                <a href="https://www.calendar.com/the-planning-zone/consultation-for-better-programs/">
+                  <span>
+                    <i className="fa fa-arrow-right" aria-hidden="true"></i>
+                    Schedule Here
+                  </span>
+                </a>
               </p>
             </ContactContentWrapper>
           </Col>
-          <Col md={6}></Col>
         </Row>
       </Container>
     </div>
   );
 };
 
-const WovenButton = () => {
-  return (
-    <div
-      id="woven_button"
-      className="woven_button_2 my-3 mb-4"
-      style={{ marginBottom: "6px" }}
-    >
-      <a
-        href="https://woven.com/c/dawnvalentine/VariableScoop"
-        style={{ textDecoration: "none" }}
-      >
-        <table
-          cellSpacing="0"
-          cellPadding="0"
-          style={{
-            boxShadow: "0px 1px 4px rgba(43, 44, 49, 0.25)",
-            borderRadius: "6px",
-            margin: "0 2px",
-            backgroundColor: "#fff",
-          }}
-        >
-          <tbody>
-            <tr>
-              <td
-                style={{
-                  padding: "8px 12px",
-                  color: "#2B2C31",
-                  fontWeight: "500",
-                }}
-              >
-                <img
-                  src="https://storage.googleapis.com/pulsra-6x3zjmdpzbyevp7hv2obm8bs8xvgj5pcbygycyepup/schedule-with-woven-3x.png"
-                  style={{ marginRight: "8px", width: "11px" }}
-                />
-                Schedule VariableScoop
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </a>
-    </div>
-  );
-};
 const TitleAreaWrapper = styled.div`
   padding-top: 70px;
   padding-bottom: 10px;

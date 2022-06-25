@@ -1,7 +1,7 @@
-import Link from "next/link";
-import React from "react";
-import { Col } from "reactstrap";
-import styled from "styled-components";
+import Link from 'next/link';
+import React from 'react';
+import { Col } from 'reactstrap';
+import styled from 'styled-components';
 
 const FooterAbout = () => {
   return (
@@ -9,7 +9,7 @@ const FooterAbout = () => {
       <LogoWrapper>
         <Link href="/">
           <a>
-            <img src="/images/logo/logo.png" alt="Variable Scoop" />
+            <img src="/images/logo/5.png" alt="Variable Scoop" />
           </a>
         </Link>
       </LogoWrapper>

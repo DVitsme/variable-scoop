@@ -1,8 +1,8 @@
-import { Container, Row } from "reactstrap";
+import { Container, Row } from 'reactstrap';
 
-import styled from "styled-components";
-import FooterAbout from "./footerAbout";
-import FooterLinks from "./footerLinks";
+import styled from 'styled-components';
+import FooterAbout from './footerAbout';
+import FooterLinks from './footerLinks';
 
 const Footer = () => {
   return (
@@ -29,65 +29,60 @@ const FooterWrapper = styled.footer`
 `;
 
 const QuickLinks = {
-  title: "Quick Links",
+  title: 'Quick Links',
   footerLink: [
     {
-      body: "Home",
-      URL: "/",
+      body: 'Home',
+      URL: '/'
     },
     {
-      body: "about",
-      URL: "/about",
+      body: 'about',
+      URL: '/about'
     },
     {
-      body: "toolbox",
-      URL: "/toolbox",
+      body: 'toolbox',
+      URL: '/toolbox'
     },
     {
-      body: "contact",
-      URL: "/contact",
-    },
-  ],
+      body: 'contact',
+      URL: '/contact'
+    }
+  ]
 };
 
 const SocialMedia = {
-  title: "Social",
+  title: 'Social',
   footerLink: [
     {
-      body: "Medium",
-      URL: "https://medium.com/@variablescoop",
-      icon: "medium",
+      body: 'LinkedIn',
+      URL: 'https://www.linkedin.com/company/variablescoop',
+      icon: 'linkedin-square'
     },
     {
-      body: "LinkedIn",
-      URL: "https://medium.com/@variablescoop",
-      icon: "linkedin-square",
+      body: 'Twitter',
+      URL: 'https://twitter.com/VariableScoop',
+      icon: 'twitter-square'
     },
     {
-      body: "Twitter",
-      URL: "https://twitter.com/VariableScoop",
-      icon: "twitter-square",
-    },
-    {
-      body: "Facebook",
-      URL: "https://www.facebook.com/variablescoop",
-      icon: "facebook-square",
-    },
-  ],
+      body: 'Facebook',
+      URL: 'https://www.facebook.com/variablescoop',
+      icon: 'facebook-square'
+    }
+  ]
 };
 const Contact = {
-  title: "Contact",
+  title: 'Contact',
   footerLink: [
     {
-      body: "dawn@variablescoop.com",
-      URL: "mailto:dawn@variablescoop.com",
-      icon: "envelope-square",
+      body: 'dawn@variablescoop.com',
+      URL: 'mailto:dawn@variablescoop.com',
+      icon: 'envelope-square'
     },
     {
-      body: "+1 (240) 401 - 8975",
-      URL: "tel:+12404018975",
-      icon: "phone-square",
-    },
-  ],
+      body: '+1 (240) 401 - 8975',
+      URL: 'tel:+12404018975',
+      icon: 'phone-square'
+    }
+  ]
 };
 export default Footer;

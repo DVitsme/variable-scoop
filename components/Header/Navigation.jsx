@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { useRouter } from "next/router";
+import React, { useState } from 'react';
+import { useRouter } from 'next/router';
 import {
   Container,
   Collapse as ReactstrapCollapse,
@@ -13,13 +13,13 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
-  NavbarText,
-} from "reactstrap";
+  NavbarText
+} from 'reactstrap';
 
-import Link from "next/link";
-import styled from "styled-components";
+import Link from 'next/link';
+import styled from 'styled-components';
 
-import TopBar from "./topBar";
+import TopBar from './topBar';
 
 const Navigation = (props) => {
   const router = useRouter();
@@ -28,7 +28,7 @@ const Navigation = (props) => {
   const toggle = () => setIsOpen(!isOpen);
   return (
     <React.Fragment>
-      <TopBar hide={useRouter().pathname === "/"} />
+      <TopBar hide={useRouter().pathname === '/'} />
       <Navbar expand="md">
         <Container>
           <NavbarBrand href="/">Variable Scoop</NavbarBrand>
@@ -83,11 +83,11 @@ const NavLink = styled(ReactstrapNavLink)`
 
 const NavbarToggler = styled(ReactstrapNavbarToggler)`
   border: ${() => {
-    if (useRouter().pathname === "/")
-      return "1px solid rgba(255, 255, 255, 0.5)";
+    if (useRouter().pathname === '/')
+      return '1px solid rgba(255, 255, 255, 0.5)';
   }};
   background-image: ${() => {
-    if (useRouter().pathname === "/")
+    if (useRouter().pathname === '/')
       return `url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")`;
     else
       return `url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")`;
@@ -101,18 +101,18 @@ const NavbarBrand = styled(ReactstrapNavbarBrand)`
 
 const Navbar = styled(ReactstrapNavbar)`
   position: ${() => {
-    if (useRouter().pathname === "/") return "absolute";
-    return "relative";
+    if (useRouter().pathname === '/') return 'absolute';
+    return 'relative';
   }};
   background-color: ${(props) => {
-    if (useRouter().pathname === "/") return "transparent";
+    if (useRouter().pathname === '/') return 'transparent';
     return props.theme.white;
   }};
   a,
   li,
   span {
     color: ${(props) => {
-      if (useRouter().pathname === "/") return props.theme.white;
+      if (useRouter().pathname === '/') return props.theme.white;
       return props.theme.gray;
     }} !important;
   }
@@ -126,10 +126,10 @@ const Navbar = styled(ReactstrapNavbar)`
 
 const Collapse = styled(ReactstrapCollapse)`
   background-color: ${(props) => {
-    if (props.isOpen) return "rgba(0, 0, 0, 0.9)";
+    if (props.isOpen) return 'rgba(0, 0, 0, 0.9)';
   }};
   padding: ${(props) => {
-    if (props.isOpen) return "2rem";
+    if (props.isOpen) return '2rem';
   }};
 `;
 
